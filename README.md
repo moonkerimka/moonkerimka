@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" height="40"/>&nbsp;
   <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://matplotlib.org/stable/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
