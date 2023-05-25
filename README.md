@@ -1,4 +1,5 @@
-### Hi, I'm Aigerim👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+moonkerimka+%E2%99%A5%EF%B8%8F+;I'm+Junior+Data+Scientist++;lifelong+learner)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on an article where I show the definition of the temperature gradient of the lubricating layer
